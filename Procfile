@@ -1,0 +1,1 @@
+web: gunicorn english-frensh-translator:app
